@@ -1,0 +1,26 @@
+-classpath
+'/home/olgo/code/java/eclipse/objectcontract/objectcontract-core/target/classes'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/home/olgo/code/java/eclipse/objectcontract/objectcontract-core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2012. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/olgo/code/java/eclipse/objectcontract/objectcontract-core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'objectcontract-core 0.0.1 API'
+-keywords
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/home/olgo/code/java/eclipse/objectcontract/objectcontract-core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'objectcontract-core 0.0.1 API'

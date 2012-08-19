@@ -1,0 +1,28 @@
+-classpath
+'/home/olgo/code/java/eclipse/objectcontract/objectcontract-junit/target/classes:/home/olgo/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/olgo/code/java/eclipse/objectcontract/objectcontract-core/target/classes:/home/olgo/.m2/repository/junit/junit/4.10/junit-4.10.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/home/olgo/code/java/eclipse/objectcontract/objectcontract-junit/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2012. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/olgo/code/java/eclipse/objectcontract/objectcontract-junit/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'objectcontract-junit 1.0-SNAPSHOT API'
+-keywords
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/home/olgo/code/java/eclipse/objectcontract/objectcontract-junit/target/javadoc-bundle-options'
+-linkoffline
+'http://maven.apache.org/apidocs' '/home/olgo/code/java/eclipse/objectcontract/objectcontract-core/target/site/apidocs'
+-use
+-version
+-windowtitle
+'objectcontract-junit 1.0-SNAPSHOT API'
